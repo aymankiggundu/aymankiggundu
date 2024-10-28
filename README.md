@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KIGGUNDUS SULAIMAN</h1>
+<h1 align="center">Hi 👋, I'm KIGGUNDUS SULAIMAN(Ayman)</h1>
 <h3 align="center">Computer Scientist with vast knowledge in the field</h3>
 
 - 🔭 I’m currently an e-commerce application [shoppie_app](https://github.com/aymankiggundu/shoppie_app.git)
